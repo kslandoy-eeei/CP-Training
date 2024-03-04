@@ -11,7 +11,7 @@ This repository contains source codes for all of my solved problems in ACDLadder
 - There will be subfolders for each rating bracket.
 - Files will be named according to their CF name.
 
-# Inside CSES
+# Inside CSES:
 - These are problems solved alongside Competitive Programmer's Handbook by Antti Laaksonen.
 
 All source codes are only in Python or C++. Java/JS implementations will be uploaded once I find the time to do so.
