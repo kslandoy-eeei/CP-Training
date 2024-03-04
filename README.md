@@ -1,7 +1,7 @@
 # CP - Training
 This repository contains source codes for all of my solved problems in ACDLadders and Junior Training Sheet (https://docs.google.com/spreadsheets/d/18gmcp7yY2NEMQILp7LK5LdG-douHGIOUV1hNY0M5yro/edit?usp=sharing).
 
-**ADDED** CSES Problem Set
+***ADDED*** CSES Problem Set
 
 # Inside Junior Training Sheet:
 - Each difficulty will have their own folders, and each solution file will be named after the problem's name and problem code.
