@@ -47,6 +47,10 @@ int main()
             printf("%d %d ", i, heights[i]);
             currentHeight = heights[i];
         }
+        else if (i == rightmost)
+        {
+            printf("%d %d\n", i, heights[i]);
+        }
         else if (currentHeight != heights[i])
         {
             printf("%d %d ", i, heights[i]);
