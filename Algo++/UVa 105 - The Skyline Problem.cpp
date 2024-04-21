@@ -38,14 +38,6 @@ int main()
         }
     }
 
-    for (int i = leftmost; i < rightmost; i++)
-    {
-        cout << heights[i] << " ";
-    }
-
-    cout << endl;
-
-
     int currentHeight;
 
     for (int i = leftmost; i < rightmost + 1; ++i)
