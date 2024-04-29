@@ -1,9 +1,11 @@
 # CP - Training
-This repository contains source codes for all of my solved problems in ACDLadders.
+This repository contains source codes for all of my solved problems across different websites.
+
+***ADDED*** ACDLadders
 
 ***ADDED*** CSES Problem Set
 
-***ADDED*** USACO Guide
+***ADDED*** UHunt
 
 ***ADDED*** Algo++
 
@@ -14,8 +16,8 @@ This repository contains source codes for all of my solved problems in ACDLadder
 # Inside CSES:
 - These are problems solved alongside Competitive Programmer's Handbook by Antti Laaksonen.
 
-# Inside USACO Guide
-- This folder contains solutions to USACO Guide's problems found on their website. Each category (Bronze, Silver, Gold, Platinum, Advanced) will have their own subfolder.
+# Inside UHunt
+- This folder contains the solutions to UHunt problems in onlinejudge.
 
 # Inside Algo++
 - My solutions for the periodic mock exam

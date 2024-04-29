@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
+    bool first = true;
     while (1)
     {
-        bool first = true;
         int k;
         vector<int> nums;
         cin >> k;
@@ -15,7 +15,7 @@ int main()
             break;
         }
 
-        else if (first)
+        if (first)
         {
             first = false;
         }
@@ -44,9 +44,15 @@ int main()
                         {
                             for (int o = n + 1; o < k; o++)
                             {
-                                printf("%d %d %d %d %d %d", nums[i], nums[j], nums[l], nums[m], nums[n], nums[o]);
+                                if (i == k - 4 && o == k - 1)
+                                {
+                                    printf("%d %d %d %d %d %d", nums[i], nums[j], nums[l], nums[m], nums[n], nums[o]);
+                                }
 
-                                cout << endl;
+                                else
+                                {
+                                    printf("%d %d %d %d %d %d\n", nums[i], nums[j], nums[l], nums[m], nums[n], nums[o]);
+                                }
                             }
                         }
                     }
