@@ -19,6 +19,9 @@ This repository contains source codes for all of my solved problems across diffe
 # Inside UHunt
 - This folder contains the solutions to UHunt problems in onlinejudge.
 
+# Inside USACO
+- Solutions for USACO Guide problems
+
 # Inside Algo++
 - My solutions for the periodic mock exam
 
