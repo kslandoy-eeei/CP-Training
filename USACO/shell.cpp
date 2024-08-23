@@ -23,7 +23,7 @@ int main()
     {
         cin >> a >> b >> g;
         swap(shell_at_pos[a - 1], shell_at_pos[b - 1]);
-        shell_pick_ctr[shell_at_pos[g - 1]]++;
+        shell_pick_ctr[shell_at_pos[g - 1] - 1]++;
     }
 
     cout << *max_element(shell_pick_ctr, shell_pick_ctr + 3) << endl;
